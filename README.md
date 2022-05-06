@@ -1,7 +1,6 @@
 ![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 <h1 align="center">Hi 👋, I'm Ramal Abaszada</h1>
 <h3 align="center">A Full Stack Developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaszaderamal&label=Profile%20views&color=0e75b6&style=flat" alt="abaszaderamal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ramal abbaszade" target="blank"><img src="https://img.shields.io/twitter/follow/ramal abbaszade?logo=twitter&style=for-the-badge" alt="ramal abbaszade" /></a> </p>
