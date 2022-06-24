@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Ramal Abaszada</h1>
 <h3 align="center">A Full Stack Developer from Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaszaderamal&label=Profile%20views&color=0e75b6&style=flat" alt="abaszaderamal" /> </p>
