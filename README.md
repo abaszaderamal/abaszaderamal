@@ -18,6 +18,5 @@
 
 <p><img style="Display:flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=abaszaderamal&show_icons=true&locale=en&layout=compact" alt="abaszaderamal" /></p>
 
-<p>&nbsp;<img align="right" style="Display:flex" src="https://github-readme-stats.vercel.app/api?username=abaszaderamal&show_icons=true&locale=en" alt="abaszaderamal" /></p>
 
 
