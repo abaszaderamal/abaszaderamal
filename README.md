@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ramal Abaszada</h1>
-<h3 align="center">A Full Stack Developer from Azerbaijan</h3>
+<h3 align="center">A Software Developer from Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaszaderamal&label=Profile%20views&color=0e75b6&style=flat" alt="abaszaderamal" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ramal abbaszade" target="blank"><img src="https://img.shields.io/twitter/follow/ramal abbaszade?logo=twitter&style=for-the-badge" alt="ramal abbaszade" /></a> </p>
@@ -18,6 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abaszaderamal&show_icons=true&locale=en&layout=compact" alt="abaszaderamal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abaszaderamal&show_icons=true&locale=en" alt="abaszaderamal" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=abaszaderamal&show_icons=true&locale=en" alt="abaszaderamal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abaszaderamal&" alt="abaszaderamal" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abaszaderamal&" alt="abaszaderamal" /></p>-->
+
