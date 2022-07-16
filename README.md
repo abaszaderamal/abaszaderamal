@@ -3,7 +3,7 @@
 <h3 align="center">A Backend Developer from Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaszaderamal&label=Profile%20views&color=0e75b6&style=flat" alt="abaszaderamal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ramal abbaszade" target="blank"><img src="https://img.shields.io/twitter/follow/ramal abbaszade?logo=twitter&style=for-the-badge" alt="ramal abbaszade" /></a> </p>
+
 
 
 <h3 align="left">Connect with me:</h3>
