@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ramal Abaszada</h1>
-<span align="center">A .Net Developer from Azerbaijan</span>
+<h3 align="center">.Net Developer from Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaszaderamal&label=Profile%20views&color=0e75b6&style=flat" alt="abaszaderamal" /> </p>
 
 
